@@ -36,8 +36,8 @@
 プロジェクト開始時に以下を実行する
 
 ```
-1. I:\.agents\MainSkills\SKILL.md を読む（SkillManager起動）
-2. I:\.agents\MainSkills\skills\skill_index.yaml を読む
+1. \MainSkills\SKILL.md を読む（SkillManager起動）
+2. \MainSkills\skills\skill_index.yaml を読む
 3. generate_index.bat を実行して index.yaml を最新化する
    → 実行できない場合：既存の index.yaml をそのまま使う
 4. index.yaml をコンテキストに読み込む
